@@ -1,0 +1,11 @@
+10
+s a 6 f 10
+a s 5 d 30 f 21
+b s 27 d 8 e 2
+c g 4 i 6
+d b 7 f 23 g 1
+e b 5
+f s 9 a 25 h 15
+g c 10 d 3
+h e 27 f 7 i 4
+i c 6 h 5

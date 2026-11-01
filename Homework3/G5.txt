@@ -1,0 +1,26 @@
+25
+s a 16 b 10 h 9 l 8 m 28
+a b 3 f 17 g 2
+b c 6 d 5 e 22 f 29 h 6
+c i 6 k 7 m 11 t 12
+d b 7 c 4 e 5 f 23 g 19 t 16
+e b 3 f 15 p 17 q 7 v 12
+f a 6 e 3 g 8 h 7 i 10
+g a 2 b 3 c 10 d 5 h 3 r 5
+h a 9 c 5 e 11 i 8 j 13
+i c 6 d 5 e 14 h 9 r 11
+j b 3 g 1 h 8 m 3 y 30
+k c 5 m 4 o 9 u 8
+l c 6 d 15 o 16
+m a 3 f 5 h 6 j 3 l 12
+n b 3 k 10 p 5 q 5 t 4 x 7
+o d 8 g 26 h 27
+p s 29 e 6 o 8 q 7 r 4
+q c 8 e 6 g 2 i 15 p 4
+r f 5 g 6 h 3 p 17
+t a 12 b 3 f 7 g 5 i 20 r 23
+u s 17 f 1 k 15 v 5 x 10
+v d 12 l 21 u 4 x 5
+w l 10 n 12 p 15 v 9 x 8
+x k 12 t 8 v 6 y 3
+y d 3 o 11 x 5
