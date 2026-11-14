@@ -14,6 +14,7 @@ import java.util.Scanner;
 
 /**
  * CSCI 4330 - Homework Assignment 3
+ * Name: Tyrone Darby
  * Problem 3: Dijkstra's Algorithm using a Min-Heap
  */
 public class DijkstraMinHeap {
