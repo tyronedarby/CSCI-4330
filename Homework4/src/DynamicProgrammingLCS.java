@@ -1,3 +1,5 @@
+// Name: Tyrone Darby
+// Class: CSCI 4330
 
 import java.io.File;
 import java.io.FileNotFoundException;
